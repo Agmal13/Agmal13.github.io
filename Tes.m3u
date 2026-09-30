@@ -161,10 +161,8 @@ https://raw.githubusercontent.com/Agmal13/Mywath/refs/heads/main/project%20pl/tr
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=DENSGO/3.00 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Nasional",RTV 3
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="Nasional", RTV 4 (my)
 #https://raw.githubusercontent.com/Agmal13/Mywath/refs/heads/main/project%20pl/rtv.m3u8
@@ -224,9 +222,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #http://xtv.ooo:8080/30912088/60996054/350997
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="Nasional", tvOne
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVONE
+https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="Nasional", Tvone (my)
 #https://raw.githubusercontent.com/Agmal13/Mywath/refs/heads/main/project%20pl/tvone.m3u8|user-agent=Mozilla/5.0
