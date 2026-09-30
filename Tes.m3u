@@ -65,7 +65,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Nasional",RCTI 4 (V+)
+###EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Nasional",RCTI 4 (V+)
 #https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -114,7 +114,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="Nasional" group-logo="" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png", Trans TV 3 (my)
+#EXTINF:-1 group-title="Nasional" group-logo="" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png", Trans 7 (my)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -122,7 +122,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 #https://raw.githubusercontent.com/Agmal13/Mywath/refs/heads/main/project%20pl/transtv.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional", TRANS7 1 (my)
+###EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional", TRANS7 1 (my)
 https://raw.githubusercontent.com/Agmal13/Mywath/refs/heads/main/project%20pl/trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -172,7 +172,7 @@ https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Nasional",VTV HD 1 
 #http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Nasional", VTV Intec
+###EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Nasional", VTV Intec
 #https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
 
